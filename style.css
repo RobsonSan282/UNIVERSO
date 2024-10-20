@@ -1,0 +1,26 @@
+
+h2{ color: rgb(132, 108, 199);}
+
+body{
+background-color: #18283f;
+color:rgb(235, 235, 245);
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+header{
+
+border-bottom: 3px solid yellowgreen;
+}
+
+footer{
+border-top: 3px solid yellowgreen;
+}
+
+#nome-usuario{ 
+
+    font-weight: bold;
+}
+.texto-inglês{
+    font-style: oblique;
+}
